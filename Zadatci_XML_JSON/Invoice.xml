@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+    <BrojRacuna>12345</BrojRacuna>
+    <DatumIzdavanja>2012-09-24</DatumIzdavanja>
+    <VrijemeIzdavanja>09:30:10.5</VrijemeIzdavanja>
+    <Napomena>Hitno platiti!</Napomena>
+    <RokZaPlacanje>2012-09-29</RokZaPlacanje>
+    <KodValute>EUR</KodValute>
+    <BrojStavke>12</BrojStavke>
+    <PeriodNaplate>
+        <PocetniDatum>2012-09-25</PocetniDatum>
+        <ZavrsniDatum>2012-09-26</ZavrsniDatum>
+    </PeriodNaplate>
+    <IzdavateljRacuna>
+        <OIB>0987654321</OIB>
+        <NazivTvrtke>CocaCola inc.</NazivTvrtke>
+        <Racunovodja>Stipan</Racunovodja>
+        <Adresa>Zimska 19b</Adresa>
+        <Mjesto>Zagreb</Mjesto>
+    </IzdavateljRacuna>
+    <Kupac>Glembaj d.o.o.</Kupac>
+    <PodaciZaPlacanje>
+        <PozivNaBroj>HR00</PozivNaBroj>
+        <ModelPlacanje>HR01</ModelPlacanje>
+        <OpisPlacanja>Puno Limenki</OpisPlacanja>
+        <IBAN>11223344</IBAN>
+        <IznosZaUplatu>1000000000</IznosZaUplatu>
+    </PodaciZaPlacanje>
+    <Stavka>
+        <Naziv>Crvene Limenke</Naziv>
+        <Kolicina>200000</Kolicina>
+        <JedinicnaCijena>700000000</JedinicnaCijena>
+        <UkupnaCijenaBezPoreza>100000000</UkupnaCijenaBezPoreza>
+        <PoreznaStopa>25</PoreznaStopa>
+        <CijenaSPorezom>10000000</CijenaSPorezom>
+
+    </Stavka>
+
+</Invoice>

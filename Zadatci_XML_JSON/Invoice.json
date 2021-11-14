@@ -1,0 +1,38 @@
+{
+    "Invoice": {
+      "BrojRacuna": 222333444,
+      "DatumIzdavanja": "2021-12-12",
+      "VrijemeIzdavanja": "12:20:20.5",
+      "Napomena": "Platiti do praznika",
+      "RokZaPlacanje": "2012-12-24",
+      "KodValute": "KN",
+      "BrojStavke": 2021678,
+      "PeriodNaplate": {
+        "PocetniDatum": "2012-20-23",
+        "ZavrsniDatum": "2012-20-24"
+      },
+      "IzdavateljRacuna": {
+        "OIB": 1234567890,
+        "NazivTvrtke": "Klem d.o.o.",
+        "Racunovodja": "Marija",
+        "Adresa": "Ljetna 19b",
+        "Mjesto": "Zagreb"
+      },
+      "Kupac": "Sokol d.o.o.",
+      "PodaciZaPlacanje": {
+        "PozivNaBroj": "HR01",
+        "ModelPlacanje": "HR100",
+        "OpisPlacanja": "Osiguranje zgrade",
+        "IBAN": 11223344,
+        "IznosZaUplatu": 290000
+      },
+      "Stavka": {
+        "Naziv": "Hitno osiguranje",
+        "Kolicina": 1,
+        "JedinicnaCijena": 29000,
+        "UkupnaCijenaBezPoreza": 27000,
+        "PoreznaStopa": 25,
+        "CijenaSPorezom": 29000
+      }
+    }
+  }
