@@ -1,1 +1,1 @@
-# PredavanjaZadatci
+Zadatci sa predavanja
